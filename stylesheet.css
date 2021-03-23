@@ -1,0 +1,76 @@
+/*   
+  Project by myrax 
+  https://github.com/Tashaun272/webhook_spammer-v2
+*/
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+* {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+    background: #252424;
+}
+
+#container {
+    margin-top: 80px;
+    margin: auto;
+    margin-right: 25px;
+    margin-left: 25px;
+    box-shadow: 7px 7px #0000006c;
+    background: rgb(85, 85, 85); 
+    padding: 25px;
+}
+
+
+#header {
+    text-align: center;
+    margin-top: 47px;
+    margin: auto;
+    font-size: 39px;
+    color: rgb(255, 255, 255)
+
+}
+
+
+.center-align {
+    text-align: center;
+}
+
+p {
+    font-family: "Arial Black, Gadget, sans-serif";
+    font-size: 27px;
+}
+
+a, a:visited {
+    color: rgb(255, 255, 255)
+}
+
+#link, #username, #content, #avatar {
+    font-size: 25px;
+    background-color: #000000;
+    width: 75%;
+    padding: 20px;
+    border: 2px solid #838383c9;
+}
+
+#btn {
+    width: 35%;
+    font-size: 25px;
+    color: #838383c9;
+    margin-top: 25px;
+    padding: 17px;
+    background-color: #000000;
+    border: 2px solid #838383c9;
+}
+
+#btn:hover { 
+    background-color: #ffffff;
+}
+
+#log {
+    text-align: center;
+    width: 5%;
+    background-color: rgb(110, 255, 43);
+    color: green;
+}
